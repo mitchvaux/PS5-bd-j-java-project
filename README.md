@@ -10,3 +10,5 @@ A Collection of .iso homebrew games pre built with imgburn from folders ready to
 can be burnt to a blueray bd-r or bd-re disc 
 
 More to be added soon inc HELLO WORLD , log4j , Testing Malware in the PS5 Sandbox , JAVA Malware , Crypto JAVA Mining
+
+updated included a ps5 ddos python script for stress testing ps5 network
