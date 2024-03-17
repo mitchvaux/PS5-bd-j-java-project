@@ -12,3 +12,6 @@ can be burnt to a blueray bd-r or bd-re disc
 More to be added soon inc HELLO WORLD , log4j , Testing Malware in the PS5 Sandbox , JAVA Malware , Crypto JAVA Mining
 
 updated included a ps5 ddos python script for stress testing ps5 network
+
+
+UPDATE ! ! ! ! most of this unfortunately ended towards end of december 2023 due to sony patching out some of the bd-j exploits on later firmware versions ! ! ! ! !
